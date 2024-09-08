@@ -6,116 +6,116 @@
 temperaturas = [
     [  # Ciudad 1
         [  # Semana 1
-            {"day": "Lunes", "Temp": 76},
-            {"day": "Martes", "Temp": 80},
-            {"day": "Miércoles", "Temp": 90},
-            {"day": "Jueves", "Temp": 100},
-            {"day": "Viernes", "Temp": 110},
-            {"day": "Sábado", "Temp": 120},
-            {"day": "Domingo", "Temp": 131}
+            {"day": "Lunes", "Temp": 30},
+            {"day": "Martes", "Temp": 32},
+            {"day": "Miércoles", "Temp": 28},
+            {"day": "Jueves", "Temp": 30},
+            {"day": "Viernes", "Temp": 31},
+            {"day": "Sábado", "Temp": 32},
+            {"day": "Domingo", "Temp": 29}
         ],
         [  # Semana 2
-            {"day": "Lunes", "Temp": 50},
-            {"day": "Martes", "Temp": 82},
-            {"day": "Miércoles", "Temp": 93},
-            {"day": "Jueves", "Temp": 106},
-            {"day": "Viernes", "Temp": 113},
-            {"day": "Sábado", "Temp": 126},
-            {"day": "Domingo", "Temp": 151}
+            {"day": "Lunes", "Temp": 27},
+            {"day": "Martes", "Temp": 29},
+            {"day": "Miércoles", "Temp": 30},
+            {"day": "Jueves", "Temp": 28},
+            {"day": "Viernes", "Temp": 28},
+            {"day": "Sábado", "Temp": 29},
+            {"day": "Domingo", "Temp": 30}
         ],
         [  # Semana 3
-            {"day": "Lunes", "Temp": 79},
-            {"day": "Martes", "Temp": 86},
-            {"day": "Miércoles", "Temp": 99},
-            {"day": "Jueves", "Temp": 108},
-            {"day": "Viernes", "Temp": 115},
-            {"day": "Sábado", "Temp": 129},
-            {"day": "Domingo", "Temp": 140}
+            {"day": "Lunes", "Temp": 33},
+            {"day": "Martes", "Temp": 31},
+            {"day": "Miércoles", "Temp": 30},
+            {"day": "Jueves", "Temp": 31},
+            {"day": "Viernes", "Temp": 32},
+            {"day": "Sábado", "Temp": 30},
+            {"day": "Domingo", "Temp": 31}
         ],
         [  # Semana 4
-            {"day": "Lunes", "Temp": 80},
-            {"day": "Martes", "Temp": 92},
-            {"day": "Miércoles", "Temp": 100},
-            {"day": "Jueves", "Temp": 112},
-            {"day": "Viernes", "Temp": 120},
-            {"day": "Sábado", "Temp": 130},
-            {"day": "Domingo", "Temp": 143}
+            {"day": "Lunes", "Temp": 26},
+            {"day": "Martes", "Temp": 29},
+            {"day": "Miércoles", "Temp": 28},
+            {"day": "Jueves", "Temp": 30},
+            {"day": "Viernes", "Temp": 31},
+            {"day": "Sábado", "Temp": 28},
+            {"day": "Domingo", "Temp": 30}
         ]
     ],
-    [  # Ciudad 2
+    [  # Ciudad 2 Quito
         [  # Semana 1
-            {"day": "Lunes", "Temp": 77},
-            {"day": "Martes", "Temp": 81},
-            {"day": "Miércoles", "Temp": 91},
-            {"day": "Jueves", "Temp": 101},
-            {"day": "Viernes", "Temp": 111},
-            {"day": "Sábado", "Temp": 121},
-            {"day": "Domingo", "Temp": 132}
+            {"day": "Lunes", "Temp": 14},
+            {"day": "Martes", "Temp": 10},
+            {"day": "Miércoles", "Temp": 11},
+            {"day": "Jueves", "Temp": 12},
+            {"day": "Viernes", "Temp": 13},
+            {"day": "Sábado", "Temp": 14},
+            {"day": "Domingo", "Temp": 9}
         ],
         [  # Semana 2
-            {"day": "Lunes", "Temp": 80},
-            {"day": "Martes", "Temp": 83},
-            {"day": "Miércoles", "Temp": 94},
-            {"day": "Jueves", "Temp": 107},
-            {"day": "Viernes", "Temp": 114},
-            {"day": "Sábado", "Temp": 127},
-            {"day": "Domingo", "Temp": 137}
+            {"day": "Lunes", "Temp": 8},
+            {"day": "Martes", "Temp": 9},
+            {"day": "Miércoles", "Temp": 11},
+            {"day": "Jueves", "Temp": 10},
+            {"day": "Viernes", "Temp": 11},
+            {"day": "Sábado", "Temp": 10},
+            {"day": "Domingo", "Temp": 12}
         ],
         [  # Semana 3
-            {"day": "Lunes", "Temp": 80},
-            {"day": "Martes", "Temp": 87},
-            {"day": "Miércoles", "Temp": 100},
-            {"day": "Jueves", "Temp": 109},
-            {"day": "Viernes", "Temp": 117},
-            {"day": "Sábado", "Temp": 130},
-            {"day": "Domingo", "Temp": 140}
+            {"day": "Lunes", "Temp": 12},
+            {"day": "Martes", "Temp": 13},
+            {"day": "Miércoles", "Temp": 14},
+            {"day": "Jueves", "Temp": 16},
+            {"day": "Viernes", "Temp": 15},
+            {"day": "Sábado", "Temp": 14},
+            {"day": "Domingo", "Temp": 13}
         ],
         [  # Semana 4
-            {"day": "Lunes", "Temp": 81},
-            {"day": "Martes", "Temp": 93},
-            {"day": "Miércoles", "Temp": 101},
-            {"day": "Jueves", "Temp": 113},
-            {"day": "Viernes", "Temp": 121},
-            {"day": "Sábado", "Temp": 134},
-            {"day": "Domingo", "Temp": 141}
+            {"day": "Lunes", "Temp": 15},
+            {"day": "Martes", "Temp": 10},
+            {"day": "Miércoles", "Temp": 16},
+            {"day": "Jueves", "Temp": 12},
+            {"day": "Viernes", "Temp": 13},
+            {"day": "Sábado", "Temp": 14},
+            {"day": "Domingo", "Temp": 14}
         ]
     ],
-    [  # Ciudad 3
+    [  # Ciudad 3 Puyo
         [  # Semana 1
-            {"day": "Lunes", "Temp": 90},
-            {"day": "Martes", "Temp": 91},
-            {"day": "Miércoles", "Temp": 101},
-            {"day": "Jueves", "Temp": 121},
-            {"day": "Viernes", "Temp": 131},
-            {"day": "Sábado", "Temp": 141},
-            {"day": "Domingo", "Temp": 151}
+            {"day": "Lunes", "Temp": 22},
+            {"day": "Martes", "Temp": 24},
+            {"day": "Miércoles", "Temp": 26},
+            {"day": "Jueves", "Temp": 25},
+            {"day": "Viernes", "Temp": 27},
+            {"day": "Sábado", "Temp": 28},
+            {"day": "Domingo", "Temp": 25}
         ],
         [  # Semana 2
-            {"day": "Lunes", "Temp": 91},
-            {"day": "Martes", "Temp": 93},
-            {"day": "Miércoles", "Temp": 104},
-            {"day": "Jueves", "Temp": 107},
-            {"day": "Viernes", "Temp": 114},
-            {"day": "Sábado", "Temp": 131},
-            {"day": "Domingo", "Temp": 137}
+            {"day": "Lunes", "Temp": 24},
+            {"day": "Martes", "Temp": 26},
+            {"day": "Miércoles", "Temp": 25},
+            {"day": "Jueves", "Temp": 24},
+            {"day": "Viernes", "Temp": 23},
+            {"day": "Sábado", "Temp": 26},
+            {"day": "Domingo", "Temp": 27}
         ],
         [  # Semana 3
-            {"day": "Lunes", "Temp": 60},
-            {"day": "Martes", "Temp": 77},
-            {"day": "Miércoles", "Temp": 80},
-            {"day": "Jueves", "Temp": 99},
-            {"day": "Viernes", "Temp": 106},
-            {"day": "Sábado", "Temp": 110},
-            {"day": "Domingo", "Temp": 119}
+            {"day": "Lunes", "Temp": 25},
+            {"day": "Martes", "Temp": 27},
+            {"day": "Miércoles", "Temp": 28},
+            {"day": "Jueves", "Temp": 29},
+            {"day": "Viernes", "Temp": 28},
+            {"day": "Sábado", "Temp": 27},
+            {"day": "Domingo", "Temp": 26}
         ],
         [  # Semana 4
-            {"day": "Lunes", "Temp": 71},
-            {"day": "Martes", "Temp": 86},
-            {"day": "Miércoles", "Temp": 91},
-            {"day": "Jueves", "Temp": 103},
-            {"day": "Viernes", "Temp": 111},
-            {"day": "Sábado", "Temp": 121},
-            {"day": "Domingo", "Temp": 131}
+            {"day": "Lunes", "Temp": 25},
+            {"day": "Martes", "Temp": 26},
+            {"day": "Miércoles", "Temp": 27},
+            {"day": "Jueves", "Temp": 28},
+            {"day": "Viernes", "Temp": 29},
+            {"day": "Sábado", "Temp": 28},
+            {"day": "Domingo", "Temp": 25}
         ]
     ]
 ]
@@ -144,25 +144,25 @@ for ciudad in temperaturas:  # Iterar sobre cada ciudad en temperaturas
 # Mostrar el promedio de temperaturas para cada ciudad y semana
 for i, (promedio_semanal, promedio_ciudad) in enumerate(promedios_por_ciudad):
     print(f"\nCiudad {i + 1}:")
-    print(f"Promedio general de la ciudad: {promedio_ciudad:.2f}")
+    print(f"Promedio general de la ciudad: {promedio_ciudad:.2f}" "°C")
     for j, promedio in enumerate(promedio_semanal):
-        print(f"Promedio de la Semana {j + 1}: {promedio:.2f}")
+        print(f"Promedio de la Semana {j + 1}: {promedio:.2f}" "°C")
 
 # Menú para seleccionar ciudad y mostrar solo el promedio general
 while True:
     print("\nSeleccione una ciudad:")
-    print("1. Ciudad 1")
-    print("2. Ciudad 2")
-    print("3. Ciudad 3")
+    print("1. Ciudad Guayaquil ")
+    print("2. Ciudad Quito")
+    print("3. Ciudad Puyo")
     print("4. Salir")
 
     option = input("Ingrese la Ciudad: ")
     if option == "1":
-        print(f"\nPromedio general de Ciudad 1: {promedios_por_ciudad[0][1]:.2f}")
+        print(f"\nPromedio general de la Temperatura de Guayaquil : {promedios_por_ciudad[0][1]:.2f}" "°C")
     elif option == "2":
-        print(f"\nPromedio general de Ciudad 2: {promedios_por_ciudad[1][1]:.2f}")
+        print(f"\nPromedio general de la Temperatura de Quito: {promedios_por_ciudad[1][1]:.2f}""°C")
     elif option == "3":
-        print(f"\nPromedio general de Ciudad 3: {promedios_por_ciudad[2][1]:.2f}")
+        print(f"\nPromedio general de la Temperatura de Puyo: {promedios_por_ciudad[2][1]:.2f}""°C")
     elif option == "4":
         print("SALIR...")
         break
